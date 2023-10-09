@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Engazzani
+- 👋 Hi, I’m Ahmed Azzani
 - 👀 I’m interested in AI,IoT and Automation 
 - 🌱 I’m always learning new things
 - 💞️ I’m looking to collaborate on AI, AIoT, Automation
