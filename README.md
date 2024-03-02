@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ahmed Azzani
-- 👀 I’m interested in AI,IoT and Automation 
+- 👋 Hi, I’m Ahmed Alazzani
+- 👀 I’m interested in AI,IoT, Roboitcs and Automation 
 - 🌱 I’m always learning new things
 - 💞️ I’m looking to collaborate on AI, AIoT, Automation
 - 📫 How to reach me .. https://www.linkedin.com/in/azzani
